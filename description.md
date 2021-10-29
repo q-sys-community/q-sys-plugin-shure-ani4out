@@ -1,4 +1,4 @@
-# Shure ANI4OUT
+# Shure ANI22
 
 A control plugin for the Shure ANI4OUT Audio Network Interface
 
